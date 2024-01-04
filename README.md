@@ -2,7 +2,7 @@ The goal of this project was to design a simulation to demonstrate how the gener
 how it also manages memory in a computerized system.
 
 For process scheduling, the following algorithms were implemented:
-- First-Come Fist-Served (FCFS)
+- First-Come First-Served (FCFS)
 - Shortest Job First (SJF)
 - Priority Scheduling
 - Round-Robin (RR)
